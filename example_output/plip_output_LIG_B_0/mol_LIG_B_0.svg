@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="752" height="480" viewBox="0 0 751.6 480.0">
+<defs>
+<linearGradient id="bg-grad" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#f0f3f8"/></linearGradient>
+<marker id="arrow-blue" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L6,3 L0,6 z" fill="#1f77b4"/></marker>
+<marker id="arrow-orange" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L6,3 L0,6 z" fill="#e65100"/></marker>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="url(#bg-grad)"/>
+<line x1="300.4" y1="394.3" x2="352.3" y2="364.3" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="295.4" y1="385.7" x2="347.3" y2="355.7" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="349.8" y1="360.0" x2="349.8" y2="300.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="401.8" y1="390.0" x2="349.8" y2="360.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="453.7" y1="360.0" x2="401.8" y2="390.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="448.7" y1="300.0" x2="448.7" y2="360.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="458.7" y1="300.0" x2="458.7" y2="360.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="505.7" y1="270.0" x2="453.7" y2="300.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="560.2" y1="295.7" x2="508.2" y2="265.7" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="555.2" y1="304.3" x2="503.2" y2="274.3" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="557.7" y1="300.0" x2="557.7" y2="360.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="609.6" y1="270.0" x2="661.6" y2="300.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="609.6" y1="270.0" x2="557.7" y2="300.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="639.6" y1="218.0" x2="609.6" y2="270.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="579.6" y1="218.0" x2="609.6" y2="270.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="555.2" y1="355.7" x2="503.2" y2="385.7" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="560.2" y1="364.3" x2="508.2" y2="394.3" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="505.7" y1="390.0" x2="453.7" y2="360.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="349.8" y1="300.0" x2="297.9" y2="270.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="297.9" y1="270.0" x2="245.9" y2="300.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="248.4" y1="295.7" x2="196.4" y2="265.7" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="243.4" y1="304.3" x2="191.4" y2="274.3" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="193.9" y1="210.0" x2="142.0" y2="180.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="193.9" y1="210.0" x2="193.9" y2="270.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="144.5" y1="115.7" x2="92.5" y2="85.7" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="139.5" y1="124.3" x2="87.5" y2="94.3" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="142.0" y1="120.0" x2="142.0" y2="180.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="193.9" y1="90.0" x2="142.0" y2="120.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="248.4" y1="115.7" x2="196.4" y2="85.7" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="243.4" y1="124.3" x2="191.4" y2="94.3" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="245.9" y1="120.0" x2="245.9" y2="180.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="243.4" y1="175.7" x2="191.4" y2="205.7" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="248.4" y1="184.3" x2="196.4" y2="214.3" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="297.9" y1="210.0" x2="245.9" y2="180.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="292.9" y1="210.0" x2="292.9" y2="270.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="302.9" y1="210.0" x2="302.9" y2="270.0" stroke="#404040" stroke-width="2.1" stroke-linecap="round"/>
+<circle cx="297.9" cy="390.0" r="12.0" fill="#fefefe" stroke="#111111" stroke-width="2.6"/>
+<circle cx="297.9" cy="390.0" r="9.0" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="297.9" y="394.0" font-family="Helvetica" font-size="13" text-anchor="middle" fill="#c0392b" font-weight="bold">O</text>
+<circle cx="349.8" cy="360.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="349.8" cy="360.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="349.8" y="364.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="401.8" cy="390.0" r="12.0" fill="#fefefe" stroke="#111111" stroke-width="2.6"/>
+<circle cx="401.8" cy="390.0" r="9.0" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="401.8" y="394.0" font-family="Helvetica" font-size="13" text-anchor="middle" fill="#1a4d7a" font-weight="bold">N</text>
+<circle cx="453.7" cy="360.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="453.7" cy="360.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="453.7" y="364.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="453.7" cy="300.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="453.7" cy="300.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="453.7" y="304.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="505.7" cy="270.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="505.7" cy="270.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="505.7" y="274.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="557.7" cy="300.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="557.7" cy="300.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="557.7" y="304.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="609.6" cy="270.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="609.6" cy="270.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="609.6" y="274.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="661.6" cy="300.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="661.6" cy="300.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="661.6" y="304.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#27ae60" font-weight="bold">F</text>
+<circle cx="639.6" cy="218.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="639.6" cy="218.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="639.6" y="222.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#27ae60" font-weight="bold">F</text>
+<circle cx="579.6" cy="218.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="579.6" cy="218.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="579.6" y="222.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#27ae60" font-weight="bold">F</text>
+<circle cx="557.7" cy="360.0" r="12.0" fill="#fefefe" stroke="#111111" stroke-width="2.6"/>
+<circle cx="557.7" cy="360.0" r="9.0" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="557.7" y="364.0" font-family="Helvetica" font-size="13" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="505.7" cy="390.0" r="12.0" fill="#fefefe" stroke="#111111" stroke-width="2.6"/>
+<circle cx="505.7" cy="390.0" r="9.0" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="505.7" y="394.0" font-family="Helvetica" font-size="13" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="349.8" cy="300.0" r="12.0" fill="#fefefe" stroke="#111111" stroke-width="2.6"/>
+<circle cx="349.8" cy="300.0" r="9.0" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="349.8" y="304.0" font-family="Helvetica" font-size="13" text-anchor="middle" fill="#1a4d7a" font-weight="bold">N</text>
+<circle cx="297.9" cy="270.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="297.9" cy="270.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="297.9" y="274.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="245.9" cy="300.0" r="12.0" fill="#fefefe" stroke="#111111" stroke-width="2.6"/>
+<circle cx="245.9" cy="300.0" r="9.0" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="245.9" y="304.0" font-family="Helvetica" font-size="13" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="193.9" cy="270.0" r="12.0" fill="#fefefe" stroke="#111111" stroke-width="2.6"/>
+<circle cx="193.9" cy="270.0" r="9.0" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="193.9" y="274.0" font-family="Helvetica" font-size="13" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="193.9" cy="210.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="193.9" cy="210.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="193.9" y="214.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="142.0" cy="180.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="142.0" cy="180.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="142.0" y="184.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#c0392b" font-weight="bold">O</text>
+<circle cx="142.0" cy="120.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="142.0" cy="120.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="142.0" y="124.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="90.0" cy="90.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="90.0" cy="90.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="90.0" y="94.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#c0392b" font-weight="bold">O</text>
+<circle cx="193.9" cy="90.0" r="12.0" fill="#fefefe" stroke="#111111" stroke-width="2.6"/>
+<circle cx="193.9" cy="90.0" r="9.0" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="193.9" y="94.0" font-family="Helvetica" font-size="13" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="245.9" cy="120.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="245.9" cy="120.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="245.9" y="124.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="245.9" cy="180.0" r="12.0" fill="#fefefe" stroke="#111111" stroke-width="2.6"/>
+<circle cx="245.9" cy="180.0" r="9.0" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="245.9" y="184.0" font-family="Helvetica" font-size="13" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<circle cx="297.9" cy="210.0" r="9.0" fill="#fefefe" stroke="#2c3e50" stroke-width="2.6"/>
+<circle cx="297.9" cy="210.0" r="6.6" fill="#ffffff" stroke="#d9d9d9" stroke-width="0.6" opacity="0.9"/>
+<text x="297.9" y="214.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#2c3e50" font-weight="bold">C</text>
+<line x1="401.8" y1="390.0" x2="416.5" y2="448.2" stroke="#1f77b4" stroke-width="2.8" stroke-dasharray="6 6" marker-end="url(#arrow-blue)"/>
+<rect x="370.0" y="412.0" width="120.0" height="48.0" rx="8" ry="8" fill="#1f77b4" opacity="0.12"/>
+<text x="430.0" y="428.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#1f77b4" font-weight="bold">GLU63A</text>
+<text x="430.0" y="446.0" font-family="Helvetica" font-size="11" text-anchor="middle" fill="#1f77b4">H-bond 2.78 Å</text>
+<line x1="349.8" y1="300.0" x2="325.1" y2="354.7" stroke="#1f77b4" stroke-width="2.8" stroke-dasharray="6 6" marker-end="url(#arrow-blue)"/>
+<rect x="242.4" y="380.8" width="120.0" height="48.0" rx="8" ry="8" fill="#1f77b4" opacity="0.12"/>
+<text x="302.4" y="396.8" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#1f77b4" font-weight="bold">GLU63A</text>
+<text x="302.4" y="414.8" font-family="Helvetica" font-size="11" text-anchor="middle" fill="#1f77b4">H-bond 2.84 Å</text>
+<line x1="297.9" y1="390.0" x2="269.4" y2="442.8" stroke="#1f77b4" stroke-width="2.8" stroke-dasharray="6 6" marker-end="url(#arrow-blue)"/>
+<rect x="136.6" y="311.5" width="120.0" height="48.0" rx="8" ry="8" fill="#1f77b4" opacity="0.12"/>
+<text x="196.6" y="327.5" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#1f77b4" font-weight="bold">ASP166A</text>
+<text x="196.6" y="345.5" font-family="Helvetica" font-size="11" text-anchor="middle" fill="#1f77b4">H-bond 2.81 Å</text>
+<line x1="245.9" y1="300.0" x2="189.0" y2="319.2" stroke="#e65100" stroke-width="2.8" stroke-dasharray="3 10" marker-end="url(#arrow-orange)"/>
+<rect x="109.9" y="362.3" width="120.0" height="48.0" rx="8" ry="8" fill="#e65100" opacity="0.12"/>
+<text x="169.9" y="378.3" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#e65100" font-weight="bold">LYS46A</text>
+<text x="169.9" y="396.3" font-family="Helvetica" font-size="11" text-anchor="middle" fill="#e65100">Hydrophobic 3.79 Å</text>
+<line x1="193.9" y1="270.0" x2="134.1" y2="273.9" stroke="#e65100" stroke-width="2.8" stroke-dasharray="3 10" marker-end="url(#arrow-orange)"/>
+<rect x="20.0" y="253.5" width="120.0" height="48.0" rx="8" ry="8" fill="#e65100" opacity="0.12"/>
+<text x="80.0" y="269.5" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#e65100" font-weight="bold">LYS46A</text>
+<text x="80.0" y="287.5" font-family="Helvetica" font-size="11" text-anchor="middle" fill="#e65100">Hydrophobic 3.95 Å</text>
+<line x1="505.7" y1="390.0" x2="549.0" y2="431.5" stroke="#e65100" stroke-width="2.8" stroke-dasharray="3 10" marker-end="url(#arrow-orange)"/>
+<rect x="528.8" y="412.0" width="120.0" height="48.0" rx="8" ry="8" fill="#e65100" opacity="0.12"/>
+<text x="588.8" y="428.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#e65100" font-weight="bold">GLU63A</text>
+<text x="588.8" y="446.0" font-family="Helvetica" font-size="11" text-anchor="middle" fill="#e65100">Hydrophobic 3.93 Å</text>
+<line x1="557.7" y1="360.0" x2="610.5" y2="388.3" stroke="#e65100" stroke-width="2.8" stroke-dasharray="3 10" marker-end="url(#arrow-orange)"/>
+<rect x="609.6" y="362.2" width="120.0" height="48.0" rx="8" ry="8" fill="#e65100" opacity="0.12"/>
+<text x="669.6" y="378.2" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#e65100" font-weight="bold">ILE66A</text>
+<text x="669.6" y="396.2" font-family="Helvetica" font-size="11" text-anchor="middle" fill="#e65100">Hydrophobic 4.00 Å</text>
+<line x1="245.9" y1="180.0" x2="195.4" y2="147.6" stroke="#e65100" stroke-width="2.8" stroke-dasharray="3 10" marker-end="url(#arrow-orange)"/>
+<rect x="89.1" y="93.9" width="120.0" height="48.0" rx="8" ry="8" fill="#e65100" opacity="0.12"/>
+<text x="149.1" y="109.9" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#e65100" font-weight="bold">ILE76A</text>
+<text x="149.1" y="127.9" font-family="Helvetica" font-size="11" text-anchor="middle" fill="#e65100">Hydrophobic 3.80 Å</text>
+<line x1="193.9" y1="270.0" x2="134.6" y2="279.1" stroke="#e65100" stroke-width="2.8" stroke-dasharray="3 10" marker-end="url(#arrow-orange)"/>
+<rect x="30.8" y="195.1" width="120.0" height="48.0" rx="8" ry="8" fill="#e65100" opacity="0.12"/>
+<text x="90.8" y="211.1" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#e65100" font-weight="bold">THR92A</text>
+<text x="90.8" y="229.1" font-family="Helvetica" font-size="11" text-anchor="middle" fill="#e65100">Hydrophobic 3.85 Å</text>
+<line x1="193.9" y1="90.0" x2="150.8" y2="48.3" stroke="#e65100" stroke-width="2.8" stroke-dasharray="3 10" marker-end="url(#arrow-orange)"/>
+<rect x="51.2" y="20.0" width="120.0" height="48.0" rx="8" ry="8" fill="#e65100" opacity="0.12"/>
+<text x="111.2" y="36.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#e65100" font-weight="bold">LEU155A</text>
+<text x="111.2" y="54.0" font-family="Helvetica" font-size="11" text-anchor="middle" fill="#e65100">Hydrophobic 3.63 Å</text>
+<line x1="193.9" y1="90.0" x2="147.3" y2="52.2" stroke="#e65100" stroke-width="2.8" stroke-dasharray="3 10" marker-end="url(#arrow-orange)"/>
+<rect x="189.7" y="20.0" width="120.0" height="48.0" rx="8" ry="8" fill="#e65100" opacity="0.12"/>
+<text x="249.7" y="36.0" font-family="Helvetica" font-size="12" text-anchor="middle" fill="#e65100" font-weight="bold">PHE167A</text>
+<text x="249.7" y="54.0" font-family="Helvetica" font-size="11" text-anchor="middle" fill="#e65100">Hydrophobic 3.47 Å</text>
+<text x="723.6" y="446.0" font-family="Helvetica" font-size="20" fill="#212121" font-weight="bold" text-anchor="end">Protein–Ligand Interaction Map</text>
+<text x="723.6" y="468.0" font-family="Helvetica" font-size="12" fill="#616161" text-anchor="end">Highlights: blue = H-bonds, orange = hydrophobic contacts</text>
+</svg>
